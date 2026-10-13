@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="pnjterror"
+version="1.0.0"
+displayName="El Lloron - PNJ de terror"
+description='''
+Un PNJ de terror que te acecha, te mira llorar y te caza.
+Escondete en los armarios para sobrevivir.
+'''
+
+[[dependencies.pnjterror]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.pnjterror]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

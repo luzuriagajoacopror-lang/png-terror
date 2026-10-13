@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PIP",
+    "PPP"
+  ],
+  "key": {
+    "P": { "item": "minecraft:dark_oak_planks" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": { "item": "pnjterror:hiding_closet", "count": 1 }
+}

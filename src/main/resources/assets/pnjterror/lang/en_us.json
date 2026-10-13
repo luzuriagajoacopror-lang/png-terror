@@ -1,0 +1,16 @@
+{
+  "block.pnjterror.hiding_closet": "Hiding Closet",
+  "entity.pnjterror.weeper": "The Weeper",
+  "item.pnjterror.weeper_spawn_egg": "Weeper Spawn Egg",
+  "message.pnjterror.hiding": "You are hiding... sneak (Shift) to come out",
+  "subtitles.pnjterror.weeper_cry": "The Weeper sobs",
+  "subtitles.pnjterror.weeper_whisper": "Whispers",
+  "subtitles.pnjterror.weeper_scream": "The Weeper screams",
+  "subtitles.pnjterror.weeper_hurt": "The Weeper moans",
+  "subtitles.pnjterror.weeper_death": "The Weeper dies",
+  "subtitles.pnjterror.weeper_step": "Heavy footsteps",
+  "subtitles.pnjterror.closet_open": "Closet creaks",
+  "subtitles.pnjterror.closet_close": "Closet closes",
+  "subtitles.pnjterror.closet_knock": "Banging on a closet",
+  "subtitles.pnjterror.heartbeat": "Heartbeat"
+}

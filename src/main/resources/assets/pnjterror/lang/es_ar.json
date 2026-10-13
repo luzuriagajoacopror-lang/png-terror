@@ -1,0 +1,16 @@
+{
+  "block.pnjterror.hiding_closet": "Armario para esconderse",
+  "entity.pnjterror.weeper": "El Llorón",
+  "item.pnjterror.weeper_spawn_egg": "Huevo de aparición de El Llorón",
+  "message.pnjterror.hiding": "Estás escondido... agachate (Shift) para salir",
+  "subtitles.pnjterror.weeper_cry": "El Llorón llora",
+  "subtitles.pnjterror.weeper_whisper": "Susurros",
+  "subtitles.pnjterror.weeper_scream": "El Llorón grita",
+  "subtitles.pnjterror.weeper_hurt": "El Llorón gime",
+  "subtitles.pnjterror.weeper_death": "El Llorón muere",
+  "subtitles.pnjterror.weeper_step": "Pasos pesados",
+  "subtitles.pnjterror.closet_open": "Rechina un armario",
+  "subtitles.pnjterror.closet_close": "Se cierra un armario",
+  "subtitles.pnjterror.closet_knock": "Golpes en un armario",
+  "subtitles.pnjterror.heartbeat": "Latidos"
+}

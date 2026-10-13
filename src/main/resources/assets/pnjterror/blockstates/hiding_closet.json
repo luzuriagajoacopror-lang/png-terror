@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pnjterror:block/hiding_closet" },
+    "facing=east": { "model": "pnjterror:block/hiding_closet", "y": 90 },
+    "facing=south": { "model": "pnjterror:block/hiding_closet", "y": 180 },
+    "facing=west": { "model": "pnjterror:block/hiding_closet", "y": 270 }
+  }
+}

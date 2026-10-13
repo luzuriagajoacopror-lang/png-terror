@@ -1,0 +1,13 @@
+{
+  "entity.weeper.cry": { "subtitle": "subtitles.pnjterror.weeper_cry", "sounds": ["pnjterror:weeper_cry"] },
+  "entity.weeper.whisper": { "subtitle": "subtitles.pnjterror.weeper_whisper", "sounds": ["pnjterror:weeper_whisper"] },
+  "entity.weeper.scream": { "subtitle": "subtitles.pnjterror.weeper_scream", "sounds": ["pnjterror:weeper_scream"] },
+  "entity.weeper.hurt": { "subtitle": "subtitles.pnjterror.weeper_hurt", "sounds": ["pnjterror:weeper_hurt"] },
+  "entity.weeper.death": { "subtitle": "subtitles.pnjterror.weeper_death", "sounds": ["pnjterror:weeper_death"] },
+  "entity.weeper.step": { "subtitle": "subtitles.pnjterror.weeper_step", "sounds": ["pnjterror:weeper_step"] },
+  "block.closet.open": { "subtitle": "subtitles.pnjterror.closet_open", "sounds": ["pnjterror:closet_open"] },
+  "block.closet.close": { "subtitle": "subtitles.pnjterror.closet_close", "sounds": ["pnjterror:closet_close"] },
+  "block.closet.knock": { "subtitle": "subtitles.pnjterror.closet_knock", "sounds": ["pnjterror:closet_knock"] },
+  "ambient.heartbeat": { "subtitle": "subtitles.pnjterror.heartbeat", "sounds": ["pnjterror:heartbeat"] },
+  "ambient.drone": { "sounds": ["pnjterror:drone"] }
+}
